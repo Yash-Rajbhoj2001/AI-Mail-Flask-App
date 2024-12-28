@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 DB_NAME = "emails.db"
 
 # OpenAI API Key (use environment variables for security)
-openai.api_key = "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"
+openai.api_key = "Your API Key"
 
 # Database Setup
 def setup_database():
